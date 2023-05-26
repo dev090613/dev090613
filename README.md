@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/junsoolee13?theme=light&font=Lato&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/junsoolee13?theme=light&font=Lato&ext=activity?width=500&height=500)
 
 
 <!--
