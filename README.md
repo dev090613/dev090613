@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/junsoolee13?theme=wtf&font=Mirza)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=light&font=Underdog)
-
-![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn)
 
 
 <!--
