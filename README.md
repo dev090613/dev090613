@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<!--
 ![LeetCode Stats](https://leetcard.jacoblin.cool/junsoolee13?theme=dark&font=Lato&ext=heatmap)
+-->
 
 <!--
 **dev090613/dev090613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
